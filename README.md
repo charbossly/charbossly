@@ -6,7 +6,7 @@
 - 😄 Pronouns: CharbDev
 
 
-![](https://raw.githubusercontent.com/PRESENTATION.gif)](https://www.charbdev.tk/)
+![](https://raw.githubusercontent.com/charbossly/blob/main/PRESENTATION.gif)](https://www.charbdev.tk/)
 
 ### Technologies
 
