@@ -53,7 +53,7 @@
   <img align="left" alt="Charbel's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:assogbacharbossly@gmail.com/">
-  <img align="left" alt="Charbel's mail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />
+  <img align="left" alt="Charbel's mail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/charbel-assogba-5734a6206/>
   <img align="left" alt="Charbel's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
