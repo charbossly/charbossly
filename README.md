@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: CharbDev
-
 [![](https://raw.githubusercontent.com/charbossly/charbossly/main/PRESENTATION.gif)](https://www.charbdev.tk/)
+
+### About Me
+
+
+- 🏦 I'm a Software Development Engineer .
+- 💻 I use daily **.js**.
+- 🌱 I’m currently learning JavaScript
+- 😄 Pronouns: CharbDev
+- 👯 We can connect to Know more about me
+
 
 
 ### Technologies
@@ -38,3 +43,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbossly&layout=compact)](https://github.com/charbossly/github-readme-stats)
 
 <a href="https://www.charbdev.tk/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=charbossly&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=020&icon_color=000&bg_color=0,ea6161,ffff4d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charbossly&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4fffff,c64dff&theme=graywhite" /></a>
+
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+
+
+<a href="https://twitter.com/assogba_charbel">
+  <img align="left" alt="Charbel's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:assogbacharbossly@gmail.com/">
+  <img align="left" alt="Charbel's mail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/charbel-assogba-5734a6206/>
+  <img align="left" alt="Charbel's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
