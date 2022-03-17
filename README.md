@@ -5,8 +5,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: CharbDev
 
+[![](https://raw.githubusercontent.com/charbossly/charbossly/main/profile.gif)](https://www.charbdev.tk/)
 
-![](https://raw.githubusercontent.com/charbossly/blob/main/PRESENTATION.gif)](https://www.charbdev.tk/)
 
 ### Technologies
 
