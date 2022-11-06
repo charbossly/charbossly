@@ -47,7 +47,10 @@
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+
+
 ### Dailydev
+
 <a href="https://app.daily.dev/CharbDev"><img src="https://api.daily.dev/devcards/b5e95cf6608c404789a8f0fbdcf9eb59.png?r=5xs" width="400" alt="Charbel Assogba's Dev Card"/></a>
 
 ### MES COORDONNEES
