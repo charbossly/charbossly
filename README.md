@@ -38,20 +38,15 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 
-
+### Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=charbossly&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charbossly&layout=compact)](https://github.com/charbossly/github-readme-stats)
 
 <a href="https://www.charbdev.tk/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=charbossly&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=020&icon_color=000&bg_color=0,ea6161,ffff4d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charbossly&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4fffff,c64dff&theme=graywhite" /></a>
 
-
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
-
-
-### Dailydev
-
-<a href="https://app.daily.dev/CharbDev"><img src="https://api.daily.dev/devcards/b5e95cf6608c404789a8f0fbdcf9eb59.png?r=5xs" width="400" alt="Charbel Assogba's Dev Card"/></a>
 
 ### MES COORDONNEES
 <a href="https://twitter.com/assogba_charbel">
@@ -63,4 +58,3 @@
 <a href="https://www.linkedin.com/in/charbel-assogba-5734a6206/>
   <img align="left" alt="Charbel's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
